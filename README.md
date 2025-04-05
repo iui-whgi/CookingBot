@@ -1,7 +1,7 @@
 # CookingBot
 
 
-[현재수정중인문제][[https://github.com/iui-whgi/CookingBot/blob/main/URDF/Problem.md]
+[🔗 현재 수정중인 문제](https://github.com/iui-whgi/CookingBot/blob/main/URDF/Problem.md)
 
 0405 
 .xacro 파일에서 urdf추출하기 성공
