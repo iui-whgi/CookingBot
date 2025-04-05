@@ -5,10 +5,10 @@
 
 
 성공
-파이썬 스크립트 기반으로 로봇팔 불러오기
-LoadingTherArm.py 
-sinwave 궤적으로 움직이기기
-MovingArmSinWave
+
+LoadingTherArm.py - 파이썬 스크립트 기반으로 로봇팔 불러오기
+
+MovingArmSinWave - sinwave 궤적으로 움직이기기
 
 
 
